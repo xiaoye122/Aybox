@@ -45,7 +45,7 @@
 
 ### GitHub Releases
 
-前往 [Releases 页面](https://github.com/你xiaoye122/aybox/releases) 下载最新版本 APK。
+前往 [Releases 页面](https://github.com/xiaoye122/Aybox/releases) 下载最新版本 APK。
 
 ---
 
@@ -61,7 +61,7 @@ A：因为 APK 不是从应用商店安装的，Android 系统默认会拦截。
 A：目前仅支持 Android。
 
 **Q：如何反馈问题或建议？**
-A：欢迎在 [Issues](https://github.com/你xiaoye122/aybox/issues) 中提出。
+A：欢迎在 [Issues](https://github.com/xiaoye122/Aybox/issues) 中提出。
 
 ---
 
